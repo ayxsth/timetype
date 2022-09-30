@@ -1,0 +1,7 @@
+# Ignore artifacts:
+lib
+dist
+node_modules
+coverage
+stub
+test
