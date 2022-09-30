@@ -1,6 +1,6 @@
 {
   "name": "@ayxsth/timetype",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A library to convert the time.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
